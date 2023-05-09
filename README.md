@@ -3,7 +3,6 @@
 ## Requirements
 - conda
 - python3
-- 
 ## Install packages
 ```bash
 # conda packages
