@@ -1,5 +1,5 @@
 # 1
-conda install sra-tools seqkit -y
+conda install seqkit -y
 # 2
 conda install trimmomatic -y
 # 3
